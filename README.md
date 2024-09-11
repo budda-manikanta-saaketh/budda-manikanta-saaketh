@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<center><img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
 <h1 align="center">Hi 👋, I'm Budda Manikanta Saaketh</h1>
 <h3 align="center">Passionate app developer specializing in Flutter. Focused on intuitive, user-friendly apps. Designer at heart, crafting seamless experiences.</h3>
 
